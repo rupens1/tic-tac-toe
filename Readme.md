@@ -4,7 +4,16 @@ React-Native Mobile Game App
 
 # Description
 
-Tic Tac Toe is a single player game that uses simple AI as the opponent.
+Tic Tac Toe is a single player game that uses simple AI as an opponent.
+
+## Assumptions
+
+I assume that setting up 2 individual player will require 2 device communicating with each other or via network by same backend service. 
+Instead of setting up the backend service, I used AI as an opponent.
+
+## Constraints
+
+A single player game with AI as an opponent.
 
 ## Installation
 
